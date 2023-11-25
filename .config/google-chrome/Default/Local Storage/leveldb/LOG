@@ -1,0 +1,6 @@
+2023/11/25-19:25:36.531 4 Reusing MANIFEST /home/anderson/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/25-19:25:36.580 4 Recovering log #6
+2023/11/25-19:25:36.585 4 Reusing old log /home/anderson/.config/google-chrome/Default/Local Storage/leveldb/000006.log 
+2023/11/25-20:25:16.650 4 Level-0 table #10: started
+2023/11/25-20:25:16.653 4 Level-0 table #10: 16370 bytes OK
+2023/11/25-20:25:16.656 4 Delete type=0 #6

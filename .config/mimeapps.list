@@ -1,0 +1,11 @@
+[Added Associations]
+application/x-debian-package=gnome-software-local-file.desktop;
+application/vnd.debian.binary-package=gdebi.desktop;
+application/x-compressed-tar=gdebi.desktop;
+
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop

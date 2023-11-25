@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_anderson0/google-chrome-stable_current_amd64.deb" added="2023-11-22T13:25:14.710439Z" modified="2023-11-22T13:37:31.751520Z" visited="2023-11-22T13:25:14.710439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2023-11-22T13:36:35.063739Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-11-22T13:37:31.751517Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/%C3%81rea%20de%20trabalho" added="2023-11-22T13:41:56.683973Z" modified="2023-11-22T13:41:56.683977Z" visited="2023-11-22T13:41:56.683974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-22T13:41:56.683975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/%C3%81rea%20de%20trabalho/google-chrome-stable_current_amd64.deb" added="2023-11-22T13:52:51.061096Z" modified="2023-11-22T13:52:51.061100Z" visited="2023-11-22T13:52:51.061097Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="gdebi-gtk" exec="&apos;gdebi-gtk %u&apos;" modified="2023-11-22T13:52:51.061098Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/Downloads/code_1.84.2-1699528352_amd64.deb" added="2023-11-22T13:59:08.374084Z" modified="2023-11-22T13:59:52.690432Z" visited="2023-11-22T13:59:08.374084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-22T13:59:08.374085Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gdebi-gtk %f&apos;" modified="2023-11-22T13:59:52.690429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/Downloads/3386-git-github-projeto_inicial.zip" added="2023-11-24T13:22:49.895176Z" modified="2023-11-24T13:22:49.895181Z" visited="2023-11-24T13:22:49.895177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-24T13:22:49.895179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/%C3%81rea%20de%20trabalho/estudos" added="2023-11-24T13:38:27.177180Z" modified="2023-11-24T13:38:45.793590Z" visited="2023-11-24T13:38:27.177181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-24T13:38:45.793588Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/%C3%81rea%20de%20trabalho/estudos/3386-git-github-projeto_inicial/app.js" added="2023-11-25T22:34:55.662622Z" modified="2023-11-25T22:34:55.662640Z" visited="2023-11-25T22:34:55.662623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-11-25T22:34:55.662624Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/anderson/Downloads/git-2.43.0.tar.gz" added="2023-11-25T22:42:28.121789Z" modified="2023-11-25T22:50:57.740351Z" visited="2023-11-25T22:42:28.121789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-11-25T22:50:57.347028Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-25T22:50:57.740349Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

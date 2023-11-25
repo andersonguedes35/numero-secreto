@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Music.desktop" score="2" last-seen="1700693992"/>
+    <application id="org.gnome.FileRoller.desktop" score="26" last-seen="1700952737"/>
+    <application id="org.gnome.Nibbles.desktop" score="9" last-seen="1700671997"/>
+    <application id="google-chrome.desktop" score="4009" last-seen="1700955018"/>
+    <application id="org.gnome.Software.desktop" score="3058" last-seen="1700693991"/>
+    <application id="gnome-control-center.desktop" score="7" last-seen="1700671883"/>
+    <application id="org.gnome.Nautilus.desktop" score="173" last-seen="1700952657"/>
+    <application id="org.gnome.Totem.desktop" score="3" last-seen="1700693906"/>
+    <application id="org.gnome.Robots.desktop" score="2" last-seen="1700672021"/>
+    <application id="org.gnome.Terminal.desktop" score="1129" last-seen="1700953059"/>
+    <application id="rhythmbox.desktop" score="11" last-seen="1700671793"/>
+    <application id="org.gnome.Tali.desktop" score="6" last-seen="1700672075"/>
+    <application id="org.gnome.Chess.desktop" score="14" last-seen="1700672203"/>
+    <application id="code.desktop" score="151" last-seen="1700955003"/>
+    <application id="org.freedesktop.MalcontentControl.desktop" score="1" last-seen="1700671840"/>
+    <application id="firefox-esr.desktop" score="91" last-seen="1700661502"/>
+  </context>
+</application-state>

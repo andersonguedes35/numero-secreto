@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "2023.11.22"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[BlackAI "HoiChess"]
+[BlackLevel "easy"]
+[Time "13:55:21"]
+[X-GNOME-ClockType "simple"]
+[X-GNOME-TimerIncrement "1"]
+
+1. e4 e5 2. d3 d5 3. b4 Bxb4+ 4. c3 Be7 5. a4 Nf6 6. g3 dxe4 *
